@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3>
+  Welcome to my Github. I'm Luiz Fernando and I'm very pleased to have you here   
+</h3>
+
 
 <!--
 **lfbf/lfbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +37,8 @@ Contatos
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </div>
+</br>
+</br>
 
 ![](https://komarev.com/ghpvc/?username=lfbf&color=yellowgreen)
 

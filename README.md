@@ -1,6 +1,16 @@
 <h3>
   Welcome to my Github. I'm Luiz Fernando and I'm very pleased to have you here   
 </h3>
+<p>
+  I'm a full stack web developer and currently I'm studying at <a href="https://www.betrybe.com/"> Trybe 
+  <img src="https://yt3.ggpht.com/ytc/AAUvwniKOMGxGD02USyXcic0VZEBJxLsGJNgD_20IrCNPA=s900-c-k-c0x00ffffff-no-rj" width="20" height="20" />
+  <a/> and I'm Quality Assurance(QA) too with 9 years of working experience.
+</p>  
+<p>
+On my github, you'll find projects I've submitted to assess my skills during the course I've been taking and some other personal projects.
+</p>
+<p> <b>I'm currently studying Python</b></p>
+
 
 
 <!--

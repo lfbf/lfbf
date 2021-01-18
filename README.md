@@ -26,16 +26,18 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 Contatos
-
+<div>
 <a target="_blank" href="https://www.linkedin.com/in/luizfernandobleyerdefaria/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto:luizfernandotic@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>.   
-</br>
-</br>
+</a>
+</div>
+
 ![](https://komarev.com/ghpvc/?username=lfbf&color=yellowgreen)
+
+
 </br> 
 </br>
 
